@@ -19,4 +19,5 @@ Instalar los siguientes programas
   - make install
 
 Hacer -> git clone https://github.com/admoure/Timelapse.git && cd Timelapse
+
 Ejecutar el instalador (./install.sh)
