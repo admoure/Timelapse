@@ -5,8 +5,11 @@ INSTRUCCIONES
 Descargar sistema operativo Raspbian http://www.raspberrypi.org/downloads/
 
 Quemar en SD de 8Gb y hacer configuración inicial
+
 Actualizar apt-get (apt-get update)
+
 Ir hasta el directorio /home/pi (cd /home/pi)
+
 Instalar los siguientes programas
 
 - Servidor Apache (apt-get install apache2)
