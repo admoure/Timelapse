@@ -17,6 +17,6 @@ INSTRUCCIONES
     - make
     - make check
     - make install
-
+  - Insertar la hora y logo (apt-get install imagemagick)
 - Hacer -> git clone https://github.com/admoure/Timelapse.git && cd Timelapse
 - Ejecutar el instalador (./install.sh)
